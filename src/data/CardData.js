@@ -1,0 +1,25 @@
+const cardData = [
+    { image: "game-01.png", name: "insect paradise" },
+    { image: "game-02.png", name: "fire link" },
+    { image: "game-03.png", name: "panda fortune" },
+    { image: "game-04.png", name: "ocean king" },
+    { image: "game-05.png", name: "lucky 777" },
+    { image: "game-06.png", name: "bird king fight" },
+    { image: "game-07.png", name: "china street" },
+    { image: "game-08.png", name: "crazy 7" },
+    { image: "game-09.png", name: "crab king" },
+    { image: "game-10.png", name: "fruit mary" },
+    { image: "game-11.png", name: "golden dragon" },
+    { image: "game-12.png", name: "mermaid" },
+    { image: "game-13.png", name: "route 66" },
+    { image: "game-14.png", name: "superball keno" },
+    { image: "game-15.png", name: "life of luxury" },
+    { image: "game-16.png", name: "fruit slots" },
+    { image: "game-17.png", name: "game vault" },
+    { image: "game-18.png", name: "bull demon king" },
+    { image: "game-19.png", name: "flame combo" },
+    { image: "game-20.png", name: "fruit paradise" },
+    { image: "game-21.png", name: "happy fisher" },
+];
+
+export { cardData };
